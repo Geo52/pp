@@ -5,6 +5,10 @@
     text-decoration: none;
 }
 
+a{
+    color: red;
+}
+
 body {
     max-width: 1000px;
     margin: 0 auto;
