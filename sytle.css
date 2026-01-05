@@ -9,7 +9,6 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     line-height: 1.6;
-    /* text-align: justify; */
     color: white;
     background-color: black;
 }
@@ -39,16 +38,9 @@ img {
         align-items: center;
     }
 
-    .bio {
-        flex-direction: column;
-    }
-
     .projects {
         flex-direction: row;
         align-items: center;
-    }
-    .project {
-        /* margin: 0 2rem; */
     }
 
     .pfp {
