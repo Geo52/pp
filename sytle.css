@@ -12,8 +12,11 @@ a{
 body {
     max-width: 1000px;
     margin: 0 auto;
-    line-height: 1.6;
-    color: white;
+    font-size: 18px;
+    line-height: 1.4;
+    text-align: left;
+    hyphens: auto;
+    color: #d9d9d9;
     background-color: black;
 }
 
